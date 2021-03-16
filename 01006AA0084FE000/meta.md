@@ -15,5 +15,4 @@
 * **Description:** Crashes when game prompts you to name your save
 * **Workaround:** Use ["after first keyboard prompt" save](#after-first-keyboard-prompt)
 ## :floppy_disk: Saves
-#### [after first keyboard prompt](save/after-first-keyboard-prompt.zip)
-* **Author:** Will Faust
+#### [after first keyboard prompt](https://github.com/willfaust/title-meta/raw/master/01006AA0084FE000/save/after-first-keyboard-prompt.zip)
