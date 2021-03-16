@@ -12,7 +12,7 @@
 #### GPU has not been implemented
 * **Description:** No graphics will display on-screen
 #### Software Keyboard has not been implemented
-* **Description:** Crash when game prompts you to name your save
+* **Description:** Crashes when game prompts you to name your save
 * **Workaround:** Use ["after first keyboard prompt" save](#after-first-keyboard-prompt)
 ## :floppy_disk: Saves
 #### [after first keyboard prompt](save/after-first-keyboard-prompt.zip)

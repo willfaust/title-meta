@@ -11,7 +11,7 @@
 ## :warning: Issues
 #### GPU has not been implemented
 * **Description:** No graphics will display on-screen
-#### Crash when Mario is waking up in beginning sequence
+#### Crashes when Mario is waking up in beginning sequence
 * **Workaround:** Use ["Cap Kingdom" save](#cap-kingdom)
 ## :floppy_disk: Saves
 #### [Cap Kingdom](save/cap-kingdom.zip)
