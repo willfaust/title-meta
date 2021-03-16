@@ -3,7 +3,7 @@
 # Damascus Gear Operation Tokyo (01006AA0084FE000)
 <br>
 
-**Last tested on [`bylaws:time[6d132a8]`](https://github.com/bylaws/skyline/commit/6d132a8)**
+**Last tested on [`e90dd67`](https://github.com/skyline-emu/skyline/commit/e90dd67)**
 
 **Playability Rating:** In-game with major bugs
 
