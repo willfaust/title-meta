@@ -14,5 +14,5 @@
 #### Crashes when Mario is waking up in beginning sequence
 * **Workaround:** Use ["Cap Kingdom" save](#cap-kingdom)
 ## :floppy_disk: Saves
-#### [Cap Kingdom](save/cap-kingdom.zip)
+#### [Cap Kingdom](https://github.com/willfaust/title-meta/raw/master/0100000000010000/save/cap-kingdom.zip)
 * **Author:** Will Faust
