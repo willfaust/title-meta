@@ -10,7 +10,7 @@
 * The `save` folder contains zips of saves that are linked in `meta.md`
 
 ### Front-end
-* The Skyline app will use our CDN to retrieve useful info from the respective `meta.md`s of a user's local titles
+* The Skyline app will use our CDN to retrieve useful info from the `meta.md`s cooresponding to a user's local titles
 * Playability rating will show up clearly in-app, as well as other info (if you tap to see more details)
 * Saves and cheats will be installable with one tap
 * A website front-end for title-meta is also planned at some point in the future
