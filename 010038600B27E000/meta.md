@@ -7,7 +7,7 @@
 
 **Playability Rating:** In-game with major bugs
 
-[**GitHub Discussion**](https://github.com/willfaust/title-meta/discussions/)
+[**GitHub Discussion**](https://github.com/willfaust/title-meta/discussions/2)
 ## :warning: Issues
 #### GPU has not been implemented
 * **Description:** No graphics will display on-screen
