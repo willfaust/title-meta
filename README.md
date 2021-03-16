@@ -7,7 +7,7 @@
 * Every title has its own directory, the name of which being its title id
 * Inside a title's directory, there is a `meta.md` file and a `save` directory
 * The `meta.md` file contains the name of the title, commit it was tested on, issues, notes, cheats, and links to saves
-* The `save` folder contains zips of saves that are linked in `meta.md`
+* The `save` folder contains zips of saves that are avaliable for download in `meta.md`
 
 ### Front-end
 * The Skyline app will use our CDN to retrieve useful info from the `meta.md`s corresponding to a user's local titles
